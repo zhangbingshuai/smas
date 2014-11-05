@@ -1,0 +1,12 @@
+# 忽略bin文件夹下所有文件
+bin/*
+# 忽略obj文件夹下所有文件
+obj/*
+# 忽略所有生成的.csproj.FileListAbsolute.txt文件
+*.csproj.FileListAbsolute.txt
+*.dll
+*.pdb
+*.exe 
+*.rar 
+*.zip
+*.log 
