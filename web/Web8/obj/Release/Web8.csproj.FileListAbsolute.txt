@@ -1,0 +1,69 @@
+E:\C\tuichu\Tc\web19\Web8\bin\Tc.Web.dll
+E:\C\tuichu\Tc\web19\Web8\bin\Tc.Web.pdb
+E:\C\tuichu\Tc\web19\Web8\bin\AspNetPager.dll
+E:\C\tuichu\Tc\web19\Web8\bin\Intelligencia.UrlRewriter.dll
+E:\C\tuichu\Tc\web19\Web8\bin\Model.dll
+E:\C\tuichu\Tc\web19\Web8\bin\Tc.BLL.dll
+E:\C\tuichu\Tc\web19\Web8\bin\Tc.BLL.pdb
+E:\C\tuichu\Tc\web19\Web8\bin\Model.pdb
+E:\C\tuichu\Tc\web19\Web8\obj\Release\Web8.csprojResolveAssemblyReference.cache
+E:\C\tuichu\Tc\web19\Web8\obj\Release\Tc.Web.dll
+E:\C\tuichu\Tc\web19\Web8\obj\Release\Tc.Web.pdb
+E:\C\tuichu\Tc\web19\Web8\bin\Tc.DALAccess.dll
+E:\C\tuichu\Tc\web19\Web8\bin\Tc.DALAccess.pdb
+H:\code\src\8_access_src\Web8\bin\Tc.Web.dll
+H:\code\src\8_access_src\Web8\bin\Tc.Web.pdb
+H:\code\src\8_access_src\Web8\bin\DotNet.dll
+H:\code\src\8_access_src\Web8\bin\Model.dll
+H:\code\src\8_access_src\Web8\bin\Tc.BLL.dll
+H:\code\src\8_access_src\Web8\bin\Tc.DALAccess.dll
+H:\code\src\8_access_src\Web8\bin\Tc.BLL.pdb
+H:\code\src\8_access_src\Web8\bin\Model.pdb
+H:\code\src\8_access_src\Web8\bin\Tc.DALAccess.pdb
+H:\code\src\8_access_src\Web8\obj\Release\Web8.csprojResolveAssemblyReference.cache
+H:\code\src\8_access_src\Web8\obj\Release\Tc.Web.dll
+H:\code\src\8_access_src\Web8\obj\Release\Tc.Web.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\Tc.Web.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\Tc.Web.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\DotNet.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\Model.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\Tc.BLL.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\Tc.DALAccess.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\Tc.BLL.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\Model.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\Tc.DALAccess.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\obj\Release\Web8.csprojResolveAssemblyReference.cache
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\obj\Release\Tc.Web.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\obj\Release\Tc.Web.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Drawing.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.EnterpriseServices.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Web.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Web.DynamicData.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Web.Entity.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Web.Extensions.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Web.Mobile.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Web.Services.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Xml.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\Web8\bin\System.Xml.Linq.dll
+E:\WebCode\8_access_src\Web8\bin\Tc.Web.dll
+E:\WebCode\8_access_src\Web8\bin\Tc.Web.pdb
+E:\WebCode\8_access_src\Web8\bin\DotNet.dll
+E:\WebCode\8_access_src\Web8\bin\Model.dll
+E:\WebCode\8_access_src\Web8\bin\System.Drawing.dll
+E:\WebCode\8_access_src\Web8\bin\System.EnterpriseServices.dll
+E:\WebCode\8_access_src\Web8\bin\System.Web.dll
+E:\WebCode\8_access_src\Web8\bin\System.Web.DynamicData.dll
+E:\WebCode\8_access_src\Web8\bin\System.Web.Entity.dll
+E:\WebCode\8_access_src\Web8\bin\System.Web.Extensions.dll
+E:\WebCode\8_access_src\Web8\bin\System.Web.Mobile.dll
+E:\WebCode\8_access_src\Web8\bin\System.Web.Services.dll
+E:\WebCode\8_access_src\Web8\bin\System.Xml.dll
+E:\WebCode\8_access_src\Web8\bin\System.Xml.Linq.dll
+E:\WebCode\8_access_src\Web8\bin\Tc.BLL.dll
+E:\WebCode\8_access_src\Web8\bin\Tc.DALAccess.dll
+E:\WebCode\8_access_src\Web8\bin\Tc.BLL.pdb
+E:\WebCode\8_access_src\Web8\bin\Model.pdb
+E:\WebCode\8_access_src\Web8\bin\Tc.DALAccess.pdb
+E:\WebCode\8_access_src\Web8\obj\Release\Web8.csprojResolveAssemblyReference.cache
+E:\WebCode\8_access_src\Web8\obj\Release\Tc.Web.dll
+E:\WebCode\8_access_src\Web8\obj\Release\Tc.Web.pdb

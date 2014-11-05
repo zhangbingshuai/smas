@@ -1,0 +1,27 @@
+E:\C\tuichu\Tc\DALAccess\bin\Release\DotNet.dll
+E:\C\tuichu\Tc\DALAccess\bin\Release\Model.dll
+E:\C\tuichu\Tc\DALAccess\bin\Release\System.Data.SQLite.DLL
+E:\C\tuichu\Tc\DALAccess\bin\Release\Model.pdb
+E:\C\tuichu\Tc\DALAccess\obj\Release\DALAccess.csprojResolveAssemblyReference.cache
+E:\C\tuichu\Tc\DALAccess\bin\Release\Tc.DALAccess.dll
+E:\C\tuichu\Tc\DALAccess\bin\Release\Tc.DALAccess.pdb
+E:\C\tuichu\Tc\DALAccess\obj\Release\Tc.DALAccess.dll
+E:\C\tuichu\Tc\DALAccess\obj\Release\Tc.DALAccess.pdb
+H:\code\src\8_access_src\DALAccess\bin\Release\Tc.DALAccess.dll
+H:\code\src\8_access_src\DALAccess\bin\Release\Tc.DALAccess.pdb
+H:\code\src\8_access_src\DALAccess\bin\Release\DotNet.dll
+H:\code\src\8_access_src\DALAccess\bin\Release\Model.dll
+H:\code\src\8_access_src\DALAccess\bin\Release\System.Data.SQLite.DLL
+H:\code\src\8_access_src\DALAccess\bin\Release\Model.pdb
+H:\code\src\8_access_src\DALAccess\obj\Release\DALAccess.csprojResolveAssemblyReference.cache
+H:\code\src\8_access_src\DALAccess\obj\Release\Tc.DALAccess.dll
+H:\code\src\8_access_src\DALAccess\obj\Release\Tc.DALAccess.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\bin\Release\Tc.DALAccess.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\bin\Release\Tc.DALAccess.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\bin\Release\DotNet.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\bin\Release\Model.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\bin\Release\System.Data.SQLite.DLL
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\bin\Release\Model.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\obj\Release\DALAccess.csprojResolveAssemblyReference.cache
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\obj\Release\Tc.DALAccess.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\DALAccess\obj\Release\Tc.DALAccess.pdb

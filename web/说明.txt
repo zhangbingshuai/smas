@@ -1,0 +1,27 @@
+推出网企业建站系统
+
+作者QQ:599906561
+官方：http://www.tuichu.net/
+
+access版和sqlite版，直接上传  _upload 包到空间即可
+
+sqlserver数据库步骤:
+1.新建数据库
+2:在数据库中创建数据表 （执行app_data下 数据表.sql）
+3:执行默认数据   （执行app_data下 默认数据....sql）
+4:修改webconfig下 的 ConnectionString
+
+
+
+淘宝店：http://tuichu.taobao.com
+
+后台管理地址  http://你的域名/admin/login.aspx  
+默认用户名 admin  密码 tuichu
+
+1、本程序需要asp.net2.0空间支持
+2、本程序只能在根目录运行
+
+程序包含两个包  _src结尾的为源码，_upload结尾的则为发布之后的编译版(此版直接传入空间即可使用)。
+
+有问题，可以随时联系我。
+承接企业站仿站及定制。

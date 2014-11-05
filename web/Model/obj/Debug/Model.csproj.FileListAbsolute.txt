@@ -1,0 +1,12 @@
+E:\Code\tuichu\Tc\Model\bin\Debug\Model.dll
+E:\Code\tuichu\Tc\Model\bin\Debug\Model.pdb
+E:\Code\tuichu\Tc\Model\obj\Debug\Model.dll
+E:\Code\tuichu\Tc\Model\obj\Debug\Model.pdb
+E:\C\tuichu\Tc\Model\bin\Debug\Model.dll
+E:\C\tuichu\Tc\Model\bin\Debug\Model.pdb
+E:\C\tuichu\Tc\Model\obj\Debug\Model.dll
+E:\C\tuichu\Tc\Model\obj\Debug\Model.pdb
+C:\Users\t\Desktop\code\src\8_access_src\Model\bin\Debug\Model.dll
+C:\Users\t\Desktop\code\src\8_access_src\Model\bin\Debug\Model.pdb
+C:\Users\t\Desktop\code\src\8_access_src\Model\obj\Debug\Model.dll
+C:\Users\t\Desktop\code\src\8_access_src\Model\obj\Debug\Model.pdb

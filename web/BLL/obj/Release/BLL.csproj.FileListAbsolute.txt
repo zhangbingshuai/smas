@@ -1,0 +1,52 @@
+E:\Code\tuichu\Tc\BLL\bin\Release\Tc.BLL.dll
+E:\Code\tuichu\Tc\BLL\bin\Release\Tc.BLL.pdb
+E:\Code\tuichu\Tc\BLL\bin\Release\Model.dll
+E:\Code\tuichu\Tc\BLL\bin\Release\Tc.DALSqlite.dll
+E:\Code\tuichu\Tc\BLL\bin\Release\System.Data.SQLite.dll
+E:\Code\tuichu\Tc\BLL\bin\Release\DotNet.dll
+E:\Code\tuichu\Tc\BLL\bin\Release\Tc.DALSqlite.pdb
+E:\Code\tuichu\Tc\BLL\bin\Release\Model.pdb
+E:\Code\tuichu\Tc\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\Code\tuichu\Tc\BLL\obj\Release\Tc.BLL.dll
+E:\Code\tuichu\Tc\BLL\obj\Release\Tc.BLL.pdb
+E:\C\tuichu\Tc\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\C\tuichu\Tc\BLL\obj\Release\Tc.BLL.dll
+E:\C\tuichu\Tc\BLL\obj\Release\Tc.BLL.pdb
+E:\C\tuichu\Tc\BLL\bin\Release\Tc.BLL.dll
+E:\C\tuichu\Tc\BLL\bin\Release\Tc.BLL.pdb
+E:\C\tuichu\Tc\BLL\bin\Release\Model.dll
+E:\C\tuichu\Tc\BLL\bin\Release\DotNet.dll
+E:\C\tuichu\Tc\BLL\bin\Release\Model.pdb
+E:\C\tuichu\Tc\BLL\bin\Release\Tc.DALSqlite.dll
+E:\C\tuichu\Tc\BLL\bin\Release\System.Data.SQLite.dll
+E:\C\tuichu\Tc\BLL\bin\Release\Tc.DALSqlite.pdb
+H:\code\src\8_access_src\BLL\bin\Release\Tc.BLL.dll
+H:\code\src\8_access_src\BLL\bin\Release\Tc.BLL.pdb
+H:\code\src\8_access_src\BLL\bin\Release\Model.dll
+H:\code\src\8_access_src\BLL\bin\Release\Tc.DALAccess.dll
+H:\code\src\8_access_src\BLL\bin\Release\DotNet.dll
+H:\code\src\8_access_src\BLL\bin\Release\Tc.DALAccess.pdb
+H:\code\src\8_access_src\BLL\bin\Release\Model.pdb
+H:\code\src\8_access_src\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+H:\code\src\8_access_src\BLL\obj\Release\Tc.BLL.dll
+H:\code\src\8_access_src\BLL\obj\Release\Tc.BLL.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\bin\Release\Tc.BLL.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\bin\Release\Tc.BLL.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\bin\Release\Model.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\bin\Release\Tc.DALAccess.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\bin\Release\DotNet.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\bin\Release\Tc.DALAccess.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\bin\Release\Model.pdb
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\obj\Release\Tc.BLL.dll
+E:\WorkSpace\asp.net 网站源码\[h21]深红色大气ASP\8_access_src\BLL\obj\Release\Tc.BLL.pdb
+E:\WebCode\8_access_src\BLL\bin\Release\Tc.BLL.dll
+E:\WebCode\8_access_src\BLL\bin\Release\Tc.BLL.pdb
+E:\WebCode\8_access_src\BLL\bin\Release\Model.dll
+E:\WebCode\8_access_src\BLL\bin\Release\Tc.DALAccess.dll
+E:\WebCode\8_access_src\BLL\bin\Release\DotNet.dll
+E:\WebCode\8_access_src\BLL\bin\Release\Tc.DALAccess.pdb
+E:\WebCode\8_access_src\BLL\bin\Release\Model.pdb
+E:\WebCode\8_access_src\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\WebCode\8_access_src\BLL\obj\Release\Tc.BLL.dll
+E:\WebCode\8_access_src\BLL\obj\Release\Tc.BLL.pdb

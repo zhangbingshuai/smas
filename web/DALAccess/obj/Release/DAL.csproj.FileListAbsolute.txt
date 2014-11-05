@@ -1,0 +1,9 @@
+E:\WebCode\8_access_src\DALAccess\obj\Release\DAL.csprojResolveAssemblyReference.cache
+E:\WebCode\8_access_src\DALAccess\obj\Release\Tc.DALAccess.dll
+E:\WebCode\8_access_src\DALAccess\obj\Release\Tc.DALAccess.pdb
+E:\WebCode\8_access_src\DALAccess\bin\Release\Tc.DALAccess.dll
+E:\WebCode\8_access_src\DALAccess\bin\Release\Tc.DALAccess.pdb
+E:\WebCode\8_access_src\DALAccess\bin\Release\DotNet.dll
+E:\WebCode\8_access_src\DALAccess\bin\Release\Model.dll
+E:\WebCode\8_access_src\DALAccess\bin\Release\System.Data.SQLite.DLL
+E:\WebCode\8_access_src\DALAccess\bin\Release\Model.pdb
